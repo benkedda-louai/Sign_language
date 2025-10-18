@@ -1,0 +1,18 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+tensorflow
+keras
+
+# Computer Vision
+opencv-python
+pillow
+
+# Jupyter
+jupyter
+notebook
