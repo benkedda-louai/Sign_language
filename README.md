@@ -1,6 +1,6 @@
 # Sign Language Recognition
 
-A machine learning project for sign language recognition and classification.
+A machine learning project for sign language detection and classification.
 
 ## Project Structure
 
