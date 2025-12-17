@@ -1,18 +1,17 @@
 # Core libraries
-numpy
+numpy<2
 pandas
 matplotlib
 seaborn
-
 # Machine Learning
 scikit-learn
-tensorflow
-keras
-
+torch
+torchvision
 # Computer Vision
 opencv-python
 pillow
-
 # Jupyter
 jupyter
 notebook
+mediapipe 
+tqdm

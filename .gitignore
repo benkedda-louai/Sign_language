@@ -1,3 +1,9 @@
+# data set
+data/
+# tasks
+Tasks.txt
+# .venv
+.venv/
 # Python
 __pycache__/
 *.py[cod]
@@ -58,6 +64,7 @@ logs/
 Thumbs.db
 
 # Outputs
+output/
 outputs/*.png
 outputs/*.jpg
 outputs/*.mp4
